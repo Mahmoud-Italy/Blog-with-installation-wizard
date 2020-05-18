@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "thedge-net",
+  "private_key_id": "bfe2707c0d6fbb55eed44dcbb5cc2222a6a5299c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCwf4Gom0MVKbsz\nBu6MQ95Nco/djt+5U9tVygF7LcKq4KOwSy/xP8wTwiig7D213KA0+86ifZNnAUKT\nRSMxEy6cvuizmyYLD/ub+ZsDeI4wKiuphEx/qlqieu7mMZQDAt/zQe1fjLRZUOmy\nwr8cPRjRGfYxWFoezOrTH5sh9uL0qwvP8AR6ilIobZuKIpMXKzKhDAfGc66mubjy\nuXdWmLackxqcH8Os1rTqu2qxt7tPw1BHti9GJ31xZOgHYHAarKrYcEE13UtSkZwB\nfGyq4ceBCg9UDreJkpmZprvrc695TcooYeCdyv0G19gxq2elU1YItr+E6Y6ib+HX\n6w7KBqzhAgMBAAECggEACNF/aSzuu6801kkVoJugebFMYlcUiFYvVS3iso9CqhZ6\nCeF2e6uCwbGiUDNVfFFnDhakXZvVbPX+vUxyRG4ErBoMFt3c11HSXK8/2+XJVuXj\nKL+pMc9muAuuhYD7Ipu2vu5E6FCnpHca4g6sYpe5NnNWs2L1HROtyjl1SbZj4wer\nvolG//VtyRxIedQlJ9wZc3rqF6jFxbKja67Lw4uQlLJ/gFGUfKpyqd7i2B7Wb/DE\nV4SZoVylppnw2S9smIyRqejIp5U6rk0vf7p5RLPUzPaUYVY1NShyvVGxUt7F8HfF\ntKNtAUeHXMDydJFXlPW1sU8FYieAvv2owT3dFizvtQKBgQDsAUEn5nTG8I3NPd/s\natrYrSeY1RKfb7wBJIEHOcA0dSpnx7T2RXiSSXPS0XqhJEtHkBrx02fvkiJfLXM3\nWIW46e2ookfYGNgykVR6W27Ip8bR2sPWhW5LqzonY3gUiYyRKSNJJqFkKvy8hAFV\nrJZzs5K9ZcPl5wd8pJYLAvzS/QKBgQC/c5l4NQHvA6tgzviRhkcqsSsITctNCG2A\nlYPhj3ryi8MjsxlOcyVMIE1ATHed6RpCRqAHtSsKTHWzt7hmojpeoC66WTQ8g+w7\njwA8pcRonLuys3Wdaz0M6/klg7iKQilVlFpkxklSQ7qYHDQJVcIJ6SRK/+BxgOpm\nKNOwdxOAtQKBgQDTnHBaoXX15z2OWTuN1WXzQJcvn2W6VcqCT8PtwaeIocHrGhM1\neqcYrAnRbwkAsfVZ7mlqif84vZRaOPuFFbeZTQ9O1GuM5QH9nXfc2lzkSCOqiPhu\nQmfaK2bSaIsEBy1l/zfnYF733N+O/OHhewXQKqSZdEUJwHRjG4R5zSz61QKBgHCD\nTFcTt94ypt4O5JAJfPt/AU4xAeB0qn3d4JKH0vaF4pmxYJb1Hp89gIjgJ5Aa9P6s\nKNI+y1uTEb0bpHhUsL75nlyPnh5OXV+nK7l4phPgwIJF60InSsq0R0ifv60pMseD\nlxgQW/jHqvpH4OD3kEBozpZxCANMgvSk27uiT0jdAoGBAIh1LIblImKbl2Zj8oIw\nPHkxOTriJZKZwc3kqpqjxw3yfKZk++8klNpuX/mJjosv2jdhr50gKdw5ON3cwBLG\nzYQk0WA0ZwRemLhcShWUmQKcwuDf+Rkq4zWF1SQKDCk/m9VLTwLNSeBB6AiIusgS\nch9Gvtn/jbigTl+Zd4UXbjrD\n-----END PRIVATE KEY-----\n",
+  "client_email": "thedge-google-analytics@thedge-net.iam.gserviceaccount.com",
+  "client_id": "112454088671703457023",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/thedge-google-analytics%40thedge-net.iam.gserviceaccount.com"
+}
