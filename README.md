@@ -1,6 +1,6 @@
 ## About iBlog
 
-Laravel iBlog is a web application script building for blogs for dlc. with many new features, such as:
+Laravel iBlog is a web application script building for blogs. with many new features, such as:
 
 - Support AMP
 - Support amazon storage
