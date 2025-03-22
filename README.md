@@ -8,7 +8,7 @@ Laravel iBlog is a web application script building for blogs. with many new feat
 - Support amazon storage 
 - Support google analytics 
 - Support multiple themes 
-- Support cache management
+- Support cache management 
 - Support auto generate sitemap.xml
 - Support reports by period time
 - Support activity logs
