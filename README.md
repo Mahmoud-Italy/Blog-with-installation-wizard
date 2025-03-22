@@ -20,7 +20,7 @@ Laravel iBlog is a web application script building for blogs. with many new feat
 - Support pages 
 - Support roles
 - Support export data to csv and excel, print 
-- Full permissions
+- Full permissions 
 - App Settings manufactures
           
         
