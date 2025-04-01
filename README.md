@@ -9,9 +9,9 @@ Laravel iBlog is a web application script building for blogs. with many new feat
 - Support google analytics
 - Support multiple themes
 - Support cache management  
-- Support auto generate sitemap.xml   
-- Support reports by period time 
-- Support activity logs  
+- Support auto generate sitemap.xml
+- Support reports by period time
+- Support activity logs
 - Suuport auto git pull from bitbucket 
 - Support astrotomic translatable multi langauges  
 - Support categories  
