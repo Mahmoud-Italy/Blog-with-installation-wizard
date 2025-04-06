@@ -1,7 +1,7 @@
 ## About iBlog
             
 Demo Video: https://www.youtube.com/watch?v=5yKuvsKc1tM
-       
+        
 Laravel iBlog is a web application script building for blogs. with many new features, such as:  
        
 - Support AMP
